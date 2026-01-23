@@ -61,3 +61,6 @@ Goal: Set up an Ubuntu Docker container and development environment
 - If you're on Windows and you're getting a low-memory error while trying to start the Docker container, you might be able to fix this by going into Docker Desktop settings, disable resource optimization, and increasing the memory allocation.
   ![image](images/361930506-6a8e6972-3932-42c1-bc89-5cd2889a5488.png)
 
+## Submission
+![Submission Pic 1](images/Submission1.png)
+![Submission Pic 2](images/Submission2.png)
